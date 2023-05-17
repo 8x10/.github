@@ -1,0 +1,11 @@
+{
+  "name": "MFE CI",
+  "description": "MFE CI starter workflow.",
+  "iconName": "octicon rocket",
+  "categories": [
+      "deployment",
+      "javascript",
+      "npn",
+      "yarn"
+  ]
+}
